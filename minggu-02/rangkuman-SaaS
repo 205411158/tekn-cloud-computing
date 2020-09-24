@@ -1,0 +1,9 @@
+Software as a Service adalah layanan komputasi awan dimana kita bisa langsung menggunakan aplikasi yang telah disediakan. Penyedia layanan mengelola infrastruktur dan platform yang menjalankan aplikasi tersebut. Contoh layanan aplikasi E-mail yaitu Gmail, Yahoo Mail sedangkan contoh aplikasi media sosial adalah Twitter, Facebook dan Instagram. Keuntungan dari layanan ini adalah pengguna tidak perlu membeli lisensi untuk mengakses aplikasi tersebut. 
+Pengguna hanya membutuhkan perangkat klien komputasi awan yang terhubung ke internet. Ada juga aplikasi yang mengharuskan pengguna untuk berlangganan agar bisa mengakses aplikasi yaitu Office 365 dan Adobe Creative Cloud.
+SaaS merupakan salah satu dari tiga jenis layanan Cloud Computing yang umum ditawarkan oleh penyedia layanan Cloud. Tiga jenis layanan itu adalah SaaS (Software as a Service), PaaS (Platform as a Service), IaaS (Infrastructure as a Service).
+Pada Layanan SaaS pengguna layanan hanya perlu menggunakan aplikasi tersebut tanpa harus mengerti dan mengurus bagaimana data disimpan atau bagaimana aplikasi tersebut di maintenance, karena hal tersebut merupakan service yang disediakan penyedia layanan.
+Keuntungan SaaS :
+Pengguna dapat langsung memanfaatkan layanan secara gratis atau dengan bayar biaya sewa tanpa harus mengeluarkan investasi untuk membuat sendiri atau membeli lisensi yang relatif mahal.
+Ketersediaan dan reliabilitas aplikasi terjamin oleh penyedia layanan. Pengguna hanya perlu fokus pada data miliknya. Perangkat yang dibutuhkan oleh pengguna juga hanya komputer dan internet.
+Kerugian SaaS :
+Pengguna tidak memiliki kendali penuh atas aplikasi yang disewa. Pengguna tidak dapat dengan seenaknya mengubah fitur-fitur yang disediakan karena SaaS bersifat multi-tenant sehingga fitur-fitur yang dibuat adalah fitur yang umum (tidak bisa spesifik terhadap kebutuhan pengguna tertentu). Pada beberapa aplikasi, kustomisasi dapat dilakukan dengan skala dan fungsi yang terbatas.
