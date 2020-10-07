@@ -1,9 +1,9 @@
 ### Langkah-langkah Install Git
 
-![Gambar 1](./install-git01.PNG)
-![Gambar 1](./install-git02.JPG)
-![Gambar 1](./install-git03.JPG)
-![Gambar 1](./install-git04.JPG)
+![Gambar 1](./install-git-01.PNG)
+![Gambar 1](./install-git-02.JPG)
+![Gambar 1](./install-git-03.JPG)
+![Gambar 1](./install-git-04.JPG)
 ![Gambar 1](./install-git05.JPG)
 ![Gambar 1](./install-git06.JPG)
 ![Gambar 1](./install-git07.JPG)
