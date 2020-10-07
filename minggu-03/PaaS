@@ -1,0 +1,17 @@
+PLATFORM AS A SERVICE
+
+PaaS (Platform as a Service) adalah layanan Cloud yang disediakan dalam bentuk platform dan dapat dimanfaatkan pengguna untuk membuat aplikasi di atasnya. PaaS memberikan framework bagi developer yang dapat mereka bangun dan gunakan untuk membuat aplikasi yang telah disesuaikan.
+Keuntungan PaaS 
+1.User dapat membuat aplikasi sendiri dengan banyak fitur yang sudah tersedia. Fitur-fitur tersebut seperti keamanan platform, OS, sistem database, web server, dan framework aplikasi. Jadi kita bisa lebih fokus pada pengembangan aplikasi.
+2.Tidak perlu membeli dan memasang perangkat keras dan perangkat lunak. 
+3.Pengadopsian sumber daya yang lebih cepat, lebih mudah, dan tidak berisiko. Platform PaaS biasanya memberikan akses ke lebih banyak pilihan. 
+4.Mudah, hemat biaya, memberikan skala prioritas. Jika aplikasi yang dikembangkan dan dihosting mulai memiliki traffict yang tinggi, kita dapat mengupgrade sejumlah kapasitas tambahan yang kita butuhkan.
+5.Biaya lebih rendah, karena kita tidak membangun infrastruktur. Pembiayaan awal lebih rendah dan dapat diprediksi karena sebagian besar penyedia PaaS membebani biaya kepada pelanggan berdasarkan penggunaan.
+6.Memotong waktu untuk coding. Karena dapat menggunakan komponen aplikasi yang sudah dikodekan sebelumnya, yang dibangun dalam platform seperti alur kerja, layanan direktori, fitur keamanan, pencarian, dll.
+Kerugian PaaS :
+Permasalahan yang bisa ditemukan pada saat menggunakan PaaS yaitu masalah keamanan. Fitur keamanan yang disediakan oleh penyedia layanan PaaS adalah keamanan platform. Hal tersebut berarti keamanan ditujukan kepada platform bukan pada keamanan aplikasi, karena keamanan aplikasi bukan menjadi tanggung jawab provider. Sehingga kita harus tetap memperhitungkan resiko keamanan dari aplikasi kita sendiri.
+Jenis- jenis PaaS :
+1.Public, merupakan turunan dari SaaS dan terletak diantara SaaS dan IaaS. 
+2.Private, biasanya dapat didownload dan diinstal baik pada data center milik perusahaan sendiri, atau di public cloud.
+3.Hybrid, merupakan gabungan antara jenis public dan privat.
+Beberapa provider yang memberikan layanan PaaS antara lain : Amazon Web Service, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, OpenShift, dll.
