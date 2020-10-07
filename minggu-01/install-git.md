@@ -16,4 +16,3 @@
 ![Gambar 1](./install-git14.JPG)
 ![Gambar 1](./install-git15.JPG)
 ![Gambar 1](./install-git16.JPG)
-
