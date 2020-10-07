@@ -1,4 +1,4 @@
-### Langkah-langkah Install Git
+### Langkah-langkah sign in heroku
 
 ![Gambar 1](./heroku-01.PNG)
 ![Gambar 1](./heroku-02.png)
