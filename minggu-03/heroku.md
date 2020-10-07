@@ -9,5 +9,5 @@
 ![Gambar 1](./python04.png)
 ![Gambar 1](./python05.png)
 ![Gambar 1](./python06.png)
-![Gambar 1](./python07.png)
+
 
