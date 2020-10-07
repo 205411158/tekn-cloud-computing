@@ -10,5 +10,10 @@ apabila sudah punya akun di heroku silahkan sign in, apabila belum silahkan sign
 ![Gambar 1](./python04.png)
 ![Gambar 1](./python05.png)
 ![Gambar 1](./python06.png)
-
-
+![Gambar 1](./heroku-04.png)
+![Gambar 1](./heroku-05.png)
+![Gambar 1](./heroku-06.png)
+![Gambar 1](./heroku-07.png)
+![Gambar 1](./heroku-08.png)
+![Gambar 1](./heroku-09.png)
+![Gambar 1](./heroku-10.png)
