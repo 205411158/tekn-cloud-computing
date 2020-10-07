@@ -1,7 +1,8 @@
 ### Langkah-langkah sign in heroku
 
-pabila sudah punya akun di heroku silahkan sign in, apabila belum silahkan sign up
+apabila sudah punya akun di heroku silahkan sign in, apabila belum silahkan sign up
 ![Gambar 1](./heroku-01.png)
+download aplikasi heroku
 ![Gambar 1](./heroku-02.png)
 ![Gambar 1](./heroku-03.png)
 ![Gambar 1](./python01.png)
