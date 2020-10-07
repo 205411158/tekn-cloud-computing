@@ -1,0 +1,21 @@
+INFRASTRUCTURE AS A SERVICE
+
+Infrastructure as a service (IaaS) is an instant computing infrastructure, provisioned and managed over the internet. It’s one of the four types of cloud services, along with software as a service (SaaS), platform as a service (PaaS), and serverless.
+IaaS quickly scales up and down with demand, letting you pay only for what you use. It helps you avoid the expense and complexity of buying and managing your own physical servers and other datacenter infrastructure. Each resource is offered as a separate service component, and you only need to rent a particular one for as long as you need it. A cloud computing service provider, such as Azure, manages the infrastructure, while you purchase, install, configure, and manage your own software—operating systems, middleware, and applications.
+
+Advantages of IaaS
+1.Eliminates capital expense and reduces ongoing cost. 
+2.Improves business continuity and disaster recovery. 
+3.Innovate rapidly. 
+4.Respond quicker to shifting business conditions. 
+5.Focus on your core business. 
+6.Increase stability, reliability, and supportability. 
+7.Better security.
+8.Gets new apps to users faster. 
+
+IaaS platform and architecture
+IaaS is made up of a collection of physical and virtualized resources that provide consumers with the basic building blocks needed to run applications and workloads in the cloud.
+1.Physical data centers: IaaS providers will manage large data centers, typically around the world, that contain the physical machines required to power the various layers of abstraction on top of them and that are made available to end users over the web. In most IaaS models, end users do not interact directly with the physical infrastructure, but it is provided as a service to them. 
+2.Compute: IaaS is typically understood as virtualized compute resources, so for the purposes of this article, we will define IaaS compute as a virtual machine. Providers manage the hypervisors and end users can then programmatically provision virtual “instances” with desired amounts of compute and memory (and sometimes storage). Most providers offer both CPUs and GPUs for different types of workloads. Cloud compute also typically comes paired with supporting services like auto scaling and load balancing that provide the scale and performance characteristics that make cloud desirable in the first place.
+3.Network: Networking in the cloud is a form of Software Defined Networking in which traditional networking hardware, such as routers and switches, are made available programmatically, typically through APIs. More advanced networking use cases involve the construction of multi-zone regions and virtual private clouds, both of which will be discussed in more detail later.
+4.Storage: The three primary types of cloud storage are block storage, file storage, and object storage. Block and file storage are common in traditional data centers but can often struggle with scale, performance and distributed characteristics of cloud. Thus, of the three, object storage has thus become the most common mode of storage in the cloud given that it is highly distributed (and thus resilient), it leverages commodity hardware, data can be accessed easily over HTTP, and scale is not only essentially limitless but performance scales linearly as the cluster grows. 
