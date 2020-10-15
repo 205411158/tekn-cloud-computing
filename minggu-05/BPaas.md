@@ -10,7 +10,7 @@ langkah pertama yang dilakukan, instal Java JDK 8
 Selanjutnya setting javac
 
 
-![Gambar 1](./gradle01.png)
+![Gambar 1](./javahome01.png)
 
 selanjutnya extract file gradle
 
