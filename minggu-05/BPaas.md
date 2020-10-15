@@ -6,7 +6,13 @@ langkah pertama yang dilakukan, instal Java JDK 8
 
 ![Gambar 1](./java01.png)
 
-setelah java selesai diinstal selanjutnya extract file gradle
+
+Selanjutnya setting javac
+
+
+![Gambar 1](./gradle01.png)
+
+selanjutnya extract file gradle
 
 
 KELEBIHAN APACHE SERVE
