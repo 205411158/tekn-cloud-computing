@@ -4,6 +4,8 @@ Software yang digunakan Windows, Java JDK 8, Apache OFBiz
 langkah pertama yang dilakukan, instal Java JDK 8
 
 
+![Gambar 1](./java01.png)
+
 setelah java selesai diinstal selanjutnya extract file gradle
 
 
@@ -32,3 +34,8 @@ Mempunyai dukungan teknis melalui web.
 
 
 Mempunyai kompatibilitas platform yang tinggi.
+
+
+Mencoba demo, E-Commerce webstore atau backend ERP
+
+![Gambar 1](./ofbiz01.png)
