@@ -12,28 +12,28 @@ setelah java selesai diinstal selanjutnya extract file gradle
 KELEBIHAN APACHE SERVE
 
 
-Freeware (software gratis)
+1. Freeware (software gratis)
 
 
-Mudah di-install.
+2. Mudah di-install.
 
 
-Mampu beroperasi pada berbagai platform sistem operasi.
+3. Mampu beroperasi pada berbagai platform sistem operasi.
 
 
-Mudah mengkonfigurasinya.
+4. Mudah mengkonfigurasinya.
 
 
-Mudah dalam menambahkan periferal lainnya ke dalam platform web servernya.
+5. Mudah dalam menambahkan periferal lainnya ke dalam platform web servernya.
 
 
-Menyediakan feature untuk multihomed dan virtual server.
+6. Menyediakan feature untuk multihomed dan virtual server.
 
 
-Mempunyai dukungan teknis melalui web.
+7. Mempunyai dukungan teknis melalui web.
 
 
-Mempunyai kompatibilitas platform yang tinggi.
+8. Mempunyai kompatibilitas platform yang tinggi.
 
 
 Mencoba demo, E-Commerce webstore atau backend ERP
