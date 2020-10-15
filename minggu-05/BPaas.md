@@ -15,6 +15,9 @@ Selanjutnya setting javac
 selanjutnya extract file gradle
 
 
+setup environment di gradle
+
+
 KELEBIHAN APACHE SERVE
 
 
