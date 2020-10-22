@@ -64,4 +64,40 @@ unduh di  https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web
 
 ![Gambar 1](./mysql5.png)
 
+
 ## Install MongoDB Community Server
+
+unduh di https://www.mongodb.com/try/download/community
+
+
+![Gambar 1](./mongo1.png)
+
+
+![Gambar 1](./mongo2.png)
+
+
+![Gambar 1](./mongo3.png)
+
+
+![Gambar 1](./mongo4.png)
+
+
+![Gambar 1](./mongo5.png)
+
+
+![Gambar 1](./mongo6.png)
+
+
+![Gambar 1](./mongo7.png)
+
+
+![Gambar 1](./mongo8.png)
+
+
+![Gambar 1](./mongo9.png)
+
+
+
+
+
+
