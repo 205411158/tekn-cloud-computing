@@ -44,7 +44,7 @@ ujicoba hasil instalasi go
 ![Gambar 1](./go7.png)
 
 
-##Install MySQL
+## Install MySQL
 
 
 unduh di  https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.21.0.msi
