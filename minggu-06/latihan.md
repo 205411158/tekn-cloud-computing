@@ -1,3 +1,25 @@
 ## Install Go
 
 1. Unduh di https://golang.org/doc/install?download=go1.15.3.windows-amd64.msi
+
+step 1
+![Gambar 1](./go1.png)
+
+step 2
+![Gambar 1](./go2.png)
+
+step 3
+![Gambar 1](./go3.png)
+
+step4
+![Gambar 1](./go4.png)
+
+step5
+![Gambar 1](./go5.png)
+
+step 6
+![Gambar 1](./go6.png)
+
+ujicoba hasil instalasi go
+![Gambar 1](./go7.png)
+
