@@ -55,8 +55,22 @@ Sudo systemctl status docker
 ![Gambar 1](./docker7.png)
 
 
-### 6.Cara Cek Versi Docker
+## 6.Cara Cek Versi Docker
 
 docker -v
 
 ![Gambar 1](./docker8.png)
+
+
+# Install Docker Desktop di Windows
+
+Download file instalasi di https://docs.docker.com/docker-for-windows/install/
+
+
+![Gambar 1](./wdocker1.png)
+
+
+![Gambar 1](./wdocker2.png)
+
+
+![Gambar 1](./wdocker3.png)
