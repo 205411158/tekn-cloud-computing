@@ -1,4 +1,4 @@
-# Instalasi Docker
+# Instalasi Docker di Linux
 
 ## 1.Update OS Ubuntu
 Perbarui perangkat ke versi terbaru dengan menggunakan command berikut :
