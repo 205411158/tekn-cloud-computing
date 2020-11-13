@@ -21,6 +21,14 @@ redis
 
 membuat file Dockerfile
 
+![Gambar 1](./docker03a.png)
+
+## Langkah 3 : Define services in a Compose file
+
+membuat dile docker-compose.yml
+
+
+
 
 ![Gambar 1](./docker03.png)
 
