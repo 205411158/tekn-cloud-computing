@@ -49,7 +49,14 @@ membuat dile docker-compose.yml
 ![Gambar 1](./docker05.png)
 
 
+4. berpindah terminal window yang lain docker image ls
+
+
 ![Gambar 1](./docker06.png)
+
+5. untuk berhenti dengan perintah docker-compose down atau tekan ctrl+C
+
+
 
 
 ![Gambar 1](./docker07.png)
