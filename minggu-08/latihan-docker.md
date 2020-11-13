@@ -68,27 +68,32 @@ edit file docker-compose.yml
 
 dari direktori project jalankan perintah docker-compose up
 
+![Gambar 1](./docker08.png)
+
+
 cekHello World pada browser
 
+![Gambar 1](./docker09.png)
 
-![Gambar 1](./docker08.png)
 
 ## Step 7 : Update aplikasi
 
 ubah greeting Hello World! di file app.py menjadi Hello from Docker!
 
+![Gambar 1](./docker10.png)
+
 
 refresh browser
 
 
-![Gambar 1](./docker09.png)
+![Gambar 1](./docker11.png)
 
 ## Langkah 8 : Experiment with some other commands
 
-![Gambar 1](./docker10.png)
 
 
-![Gambar 1](./docker11.png)
+
+
 
 
 ![Gambar 1](./docker12.png)
