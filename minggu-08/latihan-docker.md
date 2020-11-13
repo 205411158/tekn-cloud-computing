@@ -1,4 +1,4 @@
-#Docker Compose
+# Docker Compose
 
 ## Langkah 1 : Setup
 
@@ -9,8 +9,17 @@
 
 2. membuat file app.py pada direktori project
 
-
 ![Gambar 1](./docker02.png)
+
+3. membuat file requirement.txt
+
+flask
+redis
+
+
+## Langkah 2 : Membuat Dockerfile
+
+membuat file Dockerfile
 
 
 ![Gambar 1](./docker03.png)
