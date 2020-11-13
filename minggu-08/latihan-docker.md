@@ -57,16 +57,33 @@ membuat dile docker-compose.yml
 5. untuk berhenti dengan perintah docker-compose down atau tekan ctrl+C
 
 
+## Step 5 : Edit the Compose file to add a bind mount
 
+edit file docker-compose.yml
 
 ![Gambar 1](./docker07.png)
 
 
+## Step 6 : Re-build and run the app with Compose
+
+dari direktori project jalankan perintah docker-compose up
+
+cekHello World pada browser
+
+
 ![Gambar 1](./docker08.png)
+
+## Step 7 : Update aplikasi
+
+ubah greeting Hello World! di file app.py menjadi Hello from Docker!
+
+
+refresh browser
 
 
 ![Gambar 1](./docker09.png)
 
+## Langkah 8 : Experiment with some other commands
 
 ![Gambar 1](./docker10.png)
 
