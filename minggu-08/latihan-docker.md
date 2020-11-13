@@ -1,4 +1,13 @@
+#Docker Compose
+
+## Langkah 1 : Setup
+
+
+1. membuat sebuah direktori untuk project
+
 ![Gambar 1](./docker01.png)
+
+2. membuat file app.py pada direktori project
 
 
 ![Gambar 1](./docker02.png)
