@@ -1,4 +1,4 @@
-![Gambar 1](./docker01.PNG)
+![Gambar 1](./docker01.png)
 
 
 ![Gambar 1](./docker02.PNG)
