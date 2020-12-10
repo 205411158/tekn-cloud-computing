@@ -48,6 +48,16 @@ Step 1: The Basics
 
 Step 2: Connect a container
 
+![Gambar 1](./docnet-step2-02.png)
+
+![Gambar 1](./docnet-step2-02.1.png)
+
+![Gambar 1](./docnet-step2-02.2.png)
+
+![Gambar 1](./docnet-step2-02.3.png)
+
+
+
 Step 3: Test network connectivity
 
 Step 4: Configure NAT for external connectivity
