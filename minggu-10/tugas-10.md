@@ -75,3 +75,8 @@ Step 3: Test network connectivity
 
 Step 4: Configure NAT for external connectivity
 
+![Gambar 1](./docnet-step2-04.png)
+
+![Gambar 1](./docnet-step2-04.1.png)
+
+![Gambar 1](./docnet-step2-04.2.png)
