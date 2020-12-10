@@ -35,14 +35,16 @@ Step 4: List network driver plugins
 
 Step 1: The Basics
 
-![Gambar 1](./docnet05.png)
+![Gambar 1](./docnet-step2-01.png)
 
 
-![Gambar 1](./docnet05.1.png)
+![Gambar 1](./docnet-step2-01.1.png)
 
 
-![Gambar 1](./docnet05.2.png)
+![Gambar 1](./docnet-step2-01.2.png)
 
+
+![Gambar 1](./docnet-step2-01.3.png)
 
 Step 2: Connect a container
 
