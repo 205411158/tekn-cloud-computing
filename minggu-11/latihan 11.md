@@ -7,7 +7,15 @@
 
 ## Step 0: Basic Link Extractor Script
     
-    
+![Gambar 1](./02.step0-01.png)   
+
+![Gambar 1](./03.step0-02.png)
+
+![Gambar 1](./04.step0-03.png)
+
+![Gambar 1](./05.step0-04.png)
+
+![Gambar 1](./06.step0-05.png)
     
 ## Step 1: Containerized Link Extractor Script
     
