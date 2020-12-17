@@ -3,7 +3,7 @@
 
 ## Stage Setup
 
-![Gambar 1](./01.setup.png)
+![Gambar 1](./01. setup.png)
 
 ## Step 0: Basic Link Extractor Script
     
