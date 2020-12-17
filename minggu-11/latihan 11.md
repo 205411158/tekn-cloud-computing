@@ -19,15 +19,15 @@
     
 ## Step 1: Containerized Link Extractor Script
     
-![Gambar 1](./07.step0-01.png)   
+![Gambar 1](./07.step1-01.png)   
 
-![Gambar 1](./08.step0-02.png)
+![Gambar 1](./08.step1-02.png)
 
-![Gambar 1](./09.step0-03.png)
+![Gambar 1](./09.step1-03.png)
 
-![Gambar 1](./10.step0-04.png)
+![Gambar 1](./10.step1-04.png)
 
-![Gambar 1](./11.step0-05.png)
+![Gambar 1](./11.step1-05.png)
     
 ## Step 2: Link Extractor Module with Full URI and Anchor Text
     
